@@ -10,3 +10,7 @@ bin/
 
 # 本地临时目录
 .workbuddy/
+
+# 编辑器锁文件（jEdit 之类的会生成 .LCKxxx.java~）
+.*.LCK*~
+*.LCK*
